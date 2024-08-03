@@ -1,6 +1,3 @@
 {
-  "rewrites": [
-    {"source": "/api/(.*)*","destination": "https://fitevolution-backend-main.onrender.com"},
-    {"source": "/(.*)*","destination": "/index.html"}
-  ]
+  "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 }]
 }
