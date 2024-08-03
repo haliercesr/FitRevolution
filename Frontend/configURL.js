@@ -2,4 +2,4 @@
 //export const URLSERVER = "http://localhost:3001";
 
   export const URLfrontend="https://fitevolution-frontend.vercel.app/";
-  export const URLSERVER='https://fitrevolutionbackend.onrender.com';
+  export const URLSERVER='https://fitevolution-backend-main.onrender.com';
